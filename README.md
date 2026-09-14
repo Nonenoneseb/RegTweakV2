@@ -30,4 +30,4 @@ If Bugs Occur Please Report To https://github.com/Nonenoneseb/RegTweakV2 Or The 
 | Windows 11 23H2 x64 |  22631 | ✅ Mostly             |
 | Windows 11 24H2 x64 |  26100 | ✅ Mostly             |
 | Windows 11 25H2 x64 | 26200+ | ⚠️ Depends on updates |
-|Windows 10 x332 Does Not Support|Not Support
+|Windows 10 And Above x32 |Not Support
