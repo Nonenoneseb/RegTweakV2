@@ -1,8 +1,8 @@
 # RegTweakV2 
 Welcome To The New Version Of Reg Tweak
-You Can Download A Portable,Zip,7z,Installer,Web Installer
+You Can Download A Zip,7z,Offline Installer,Web Installer
 Check For News Updates
-Link:
+Link:https://github.com/Nonenoneseb/RegTweakV2/wiki
 Socials
 Youtube:https://www.youtube.com/@nonesebyt/
 Tiktok:https://www.tiktok.com/@nonesebyt_gd/
