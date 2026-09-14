@@ -6,7 +6,7 @@ Link:https://github.com/Nonenoneseb/RegTweakV2/wiki
 Socials
 Youtube:https://www.youtube.com/@nonesebyt/
 Tiktok:https://www.tiktok.com/@nonesebyt_gd/
-Discord Web Tweak Server:
+Discord Web Tweak Server:https://discord.gg/e7nAH9ZCEn
 Note:It Will Work Like Winaero Tweaker And Official We Dind't Steal Any Assets Or Something
 If Bugs Occur Please Report To https://github.com/Nonenoneseb/RegTweakV2 Or The Bug In Discord Server
 | Windows version |  Build | Reg Tweak                 |
